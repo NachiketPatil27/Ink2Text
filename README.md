@@ -1,4 +1,4 @@
-# Handwriting Recognition Project
+# Ink2Text: Smart Handwriting Decode
 
 ### Goal
 The goal is to create a deep learning project which will recognize the handwritings and detect them with an accuracy of more than 85%
